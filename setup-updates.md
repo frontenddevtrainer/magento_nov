@@ -13,7 +13,7 @@ In the `php.ini` file, enable necessary PHP extensions required by Magento.
 Download and install Composer from [getcomposer.org](https://getcomposer.org/download/).
 
 ### 4. Install Elasticsearch
-Download Elasticsearch 7.16.3 from [Elastic](https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.16.3-windows-x86_64.zip) and run it.
+Download Elasticsearch and run it.
 
 ### 5. Download Magento
 Open a command prompt and run:
